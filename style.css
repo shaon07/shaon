@@ -1,0 +1,263 @@
+*
+{
+	margin: 0;
+	padding: 0;
+}
+.main-header-bg
+{
+	background: #87509c;
+}
+.nav-text {
+	color: white;
+	font-weight: bold;
+	margin: 0 5px;
+	padding: 3px 12px !important;
+	border-radius: 5px;
+	transition: .5s;
+}
+#collapsibleNavbar
+{
+	transition: .6s;
+}
+.navdot
+{
+	width: 30px;
+	height: 4px;
+	background: yellow;
+	margin-top: 6px;
+}
+.active
+{
+	background: #643a79;
+}
+.nav-text:hover {
+	color: white;
+	font-weight: bold;
+	background: #643a79;
+	margin: 0 5px;
+	padding: 3px 12px !important;
+	border-radius: 5px;
+}
+.header-title
+{
+	width: 80%;
+	color: white;
+}
+.header-btn 
+{
+	background: #eb7d4b;
+	color: white;
+	font-weight: bold;
+	padding: 20px 80px;
+	border-radius: 5px;
+	text-decoration: none !important;
+	transition: .5s;
+}
+.header-btn:hover
+{
+	color: white;
+	background: #17c2a4;
+}
+
+a:hover
+{
+	color: white !important;
+}
+
+							/* service-sec */
+.service-sec
+{
+	background: #17c2a4;
+}
+.service-text-box h2
+{
+   color: white;
+   font-weight: bold;
+}
+.service-text-box p
+{
+	color: white;
+	font-weight: bold;
+	opacity: .7;
+}
+.team-img
+{
+	overflow: hidden;
+	border-radius: 20px;
+	width: 14rem;
+}
+.team-sec
+{
+	background: #e7f1f8;
+}
+.team-info h3
+{
+	color: #3f4663;
+}
+.team-info h6
+{
+	color: #26ddf8;
+}
+.team-info i {
+	background: #bdd1df;
+	color: white;
+	padding: 10px 10px;
+	font-size: 24px;
+	margin: 2px;
+	border-radius: 24px;
+}
+.service-text-box2 h2
+{
+   color: #48536b;
+   font-weight: bold;
+}
+.service-text-box2 p
+{
+	color: #48536b;
+	font-weight: bold;
+	opacity: .7;
+}
+
+
+	
+				/* service sec end */
+					      
+
+					
+
+					      /* portfolio */
+
+
+.dd-bg
+{
+	background: #ffdd99;
+}
+.port-btn-active
+{
+	background: white !important;
+}
+.port-btn {
+	background: #ebc985;
+	color: black;
+	font-weight: bold;
+	opacity: .8;
+	padding: 5px 18px;
+	border-radius: 5px;
+	text-decoration: none !important;
+	margin: 0 4px;
+}
+.more-porject {
+	background: #17c2a4;
+	color: white;
+	font-weight: bold;
+	padding: 18px 60px;
+	border-radius: 5px;
+	text-align: center;
+	text-decoration: none !important;
+}
+					      /* portfolio end */
+
+
+					      /* people report */
+.report-bg
+{
+	background: #d74680;
+}
+.client1
+{
+	width: 16rem;
+	margin: 0 20px;
+}
+.clients-say
+{
+	color: white;
+}
+.clients-say h6
+{
+	font-size: 18px;
+}
+.clients-name
+{
+	color: #ffdd99;
+	font-size: 15px !important;
+}
+					      /* people report end */
+
+					      /* get in touch */
+.massage-bg
+{
+	background: #3c5499;
+}
+.input1 {
+	width: 25rem;
+	padding: 10px 20px;
+	border-radius: 5px;
+	background: #273a71;
+	border: 1px solid #273a71;
+	color: white;
+}
+.sms-box {
+	width: 97%;
+	background: #273a71;
+	border: 1px solid #273a71;
+	height: 15rem;
+	padding: 20px;
+	color: white;
+	margin-bottom: 5rem;
+}
+.send-btn {
+	color: white;
+	font-weight: bold;
+	background: #30bae7;
+	padding: 20px 70px;
+	margin-top: 12rem !important;
+	border-radius: 5px;
+	text-decoration: none !important;
+}
+					      /* get in touch end */
+
+					      /* footer */
+.footer-bg
+{
+	background: #344b8e;
+}
+.footer-text {
+	color: white;
+	font-weight: bold;
+	font-size: 2rem;
+	padding: 0px;
+	text-decoration: none !important;
+}
+.footer-text:hover
+{
+	color: #30bae7;
+}
+.more-porject
+{
+	transition: .6s;
+}
+.more-porject:hover
+{
+	background: #d74680;
+}
+.send-btn
+{
+	transition: .6s;
+}
+.send-btn:hover
+{
+	background: #87509c;
+}
+					      /* footer end */
+
+
+
+.team-info i
+{
+	transition: .5s;
+}
+.team-info i:hover
+{
+	background: #17c2a4;
+	color: white;
+}
